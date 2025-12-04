@@ -47,7 +47,7 @@ Run the following commands:
 
 If you need help, want to report issues, or suggest improvements:
 
-💬 Join my Discord: [Insert link here](https://discord.gg/f8nKMKe8CF)
+💬 Join my Discord: [Discord](https://discord.gg/f8nKMKe8CF)
 
 📝 Open an Issue on GitHub
 
