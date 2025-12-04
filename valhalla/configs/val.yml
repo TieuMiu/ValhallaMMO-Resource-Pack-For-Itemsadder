@@ -1,0 +1,3111 @@
+info:
+  namespace: val
+items:
+  gui-skillicon_power:
+    enabled: true
+    resource:
+      material: ARMOR_STAND
+      generate: false
+      model_path: gui/skillicon_power
+      custom_model_data: 3510001
+  gui-button_nextpage:
+    enabled: true
+    resource:
+      material: ARROW
+      generate: false
+      model_path: gui/button_nextpage
+      custom_model_data: 1829130
+  gui-button_prevpage:
+    enabled: true
+    resource:
+      material: ARROW
+      generate: false
+      model_path: gui/button_prevpage
+      custom_model_data: 1829131
+  gui-skilltree_nw:
+    enabled: true
+    resource:
+      material: ARROW
+      generate: false
+      model_path: gui/skilltree_nw
+      custom_model_data: 3511001
+  gui-skilltree_n:
+    enabled: true
+    resource:
+      material: ARROW
+      generate: false
+      model_path: gui/skilltree_n
+      custom_model_data: 3511002
+  gui-skilltree_ne:
+    enabled: true
+    resource:
+      material: ARROW
+      generate: false
+      model_path: gui/skilltree_ne
+      custom_model_data: 3511003
+  gui-skilltree_e:
+    enabled: true
+    resource:
+      material: ARROW
+      generate: false
+      model_path: gui/skilltree_e
+      custom_model_data: 3511004
+  gui-skilltree_se:
+    enabled: true
+    resource:
+      material: ARROW
+      generate: false
+      model_path: gui/skilltree_se
+      custom_model_data: 3511005
+  gui-skilltree_s:
+    enabled: true
+    resource:
+      material: ARROW
+      generate: false
+      model_path: gui/skilltree_s
+      custom_model_data: 3511006
+  gui-skilltree_sw:
+    enabled: true
+    resource:
+      material: ARROW
+      generate: false
+      model_path: gui/skilltree_sw
+      custom_model_data: 3511007
+  gui-skilltree_w:
+    enabled: true
+    resource:
+      material: ARROW
+      generate: false
+      model_path: gui/skilltree_w
+      custom_model_data: 3511008
+  arrows-arrow_wood:
+    enabled: true
+    resource:
+      material: ARROW
+      generate: false
+      model_path: arrows/arrow_wood
+      custom_model_data: 8778211
+  arrows-arrow_flint:
+    enabled: true
+    resource:
+      material: ARROW
+      generate: false
+      model_path: arrows/arrow_flint
+      custom_model_data: 8778213
+  arrows-arrow_stone:
+    enabled: true
+    resource:
+      material: ARROW
+      generate: false
+      model_path: arrows/arrow_stone
+      custom_model_data: 8778215
+  arrows-arrow_copper:
+    enabled: true
+    resource:
+      material: ARROW
+      generate: false
+      model_path: arrows/arrow_copper
+      custom_model_data: 8778217
+  arrows-arrow_gold:
+    enabled: true
+    resource:
+      material: ARROW
+      generate: false
+      model_path: arrows/arrow_gold
+      custom_model_data: 8778219
+  arrows-arrow_iron:
+    enabled: true
+    resource:
+      material: ARROW
+      generate: false
+      model_path: arrows/arrow_iron
+      custom_model_data: 8778221
+  arrows-arrow_carbon:
+    enabled: true
+    resource:
+      material: ARROW
+      generate: false
+      model_path: arrows/arrow_carbon
+      custom_model_data: 8778223
+  arrows-arrow_diamond:
+    enabled: true
+    resource:
+      material: ARROW
+      generate: false
+      model_path: arrows/arrow_diamond
+      custom_model_data: 8778225
+  arrows-arrow_ender:
+    enabled: true
+    resource:
+      material: ARROW
+      generate: false
+      model_path: arrows/arrow_ender
+      custom_model_data: 8778227
+  arrows-arrow_netherite:
+    enabled: true
+    resource:
+      material: ARROW
+      generate: false
+      model_path: arrows/arrow_netherite
+      custom_model_data: 8778228
+  arrows-arrow_incendiary:
+    enabled: true
+    resource:
+      material: ARROW
+      generate: false
+      model_path: arrows/arrow_incendiary
+      custom_model_data: 8778229
+  arrows-arrow_explosive:
+    enabled: true
+    resource:
+      material: ARROW
+      generate: false
+      model_path: arrows/arrow_explosive
+      custom_model_data: 8778230
+  arrows-arrow_lightning:
+    enabled: true
+    resource:
+      material: ARROW
+      generate: false
+      model_path: arrows/arrow_lightning
+      custom_model_data: 8778231
+  arrows-arrow_unholy:
+    enabled: true
+    resource:
+      material: ARROW
+      generate: false
+      model_path: arrows/arrow_unholy
+      custom_model_data: 8778232
+  gui-button_blockvalidation:
+    enabled: true
+    resource:
+      material: BARRIER
+      generate: false
+      model_path: gui/button_blockvalidation
+      custom_model_data: 1829130
+  gui-button_delete:
+    enabled: true
+    resource:
+      material: BARRIER
+      generate: false
+      model_path: gui/button_delete
+      custom_model_data: 1829131
+  gui-button_delete_confirm:
+    enabled: true
+    resource:
+      material: BARRIER
+      generate: false
+      model_path: gui/button_delete_confirm
+      custom_model_data: 1829132
+  gui-button_return_to_menu:
+    enabled: true
+    resource:
+      material: BOOK
+      generate: false
+      model_path: gui/button_return_to_menu
+      custom_model_data: 1829130
+  materials-ring_mold:
+    enabled: true
+    resource:
+      material: BRICK
+      generate: false
+      model_path: materials/ring_mold
+      custom_model_data: 9182610
+  materials-necklace_amulet_mold:
+    enabled: true
+    resource:
+      material: BRICK
+      generate: false
+      model_path: materials/necklace_amulet_mold
+      custom_model_data: 9182611
+  materials-leather_strip:
+    enabled: true
+    resource:
+      material: BROWN_DYE
+      generate: false
+      model_path: materials/leather_strip
+      custom_model_data: 2273900
+  gui-button_crafting_time:
+    enabled: true
+    resource:
+      material: CLOCK
+      generate: false
+      model_path: gui/button_crafting_time
+      custom_model_data: 1829130
+  foods-aegis_stroganoff:
+    enabled: true
+    resource:
+      material: COOKIE
+      generate: false
+      model_path: foods/aegis_stroganoff
+      custom_model_data: 1998271
+  foods-apple_pie:
+    enabled: true
+    resource:
+      material: COOKIE
+      generate: false
+      model_path: foods/apple_pie
+      custom_model_data: 1998272
+  foods-battle_burrito:
+    enabled: true
+    resource:
+      material: COOKIE
+      generate: false
+      model_path: foods/battle_burrito
+      custom_model_data: 1998273
+  foods-cooked_lionfish:
+    enabled: true
+    resource:
+      material: COOKIE
+      generate: false
+      model_path: foods/cooked_lionfish
+      custom_model_data: 1998274
+  foods-glazed_ribs:
+    enabled: true
+    resource:
+      material: COOKIE
+      generate: false
+      model_path: foods/glazed_ribs
+      custom_model_data: 1998275
+  foods-lembas_bread:
+    enabled: true
+    resource:
+      material: COOKIE
+      generate: false
+      model_path: foods/lembas_bread
+      custom_model_data: 1998276
+  foods-luxurious_stew:
+    enabled: true
+    resource:
+      material: COOKIE
+      generate: false
+      model_path: foods/luxurious_stew
+      custom_model_data: 1998277
+  foods-poached_lobster:
+    enabled: true
+    resource:
+      material: COOKIE
+      generate: false
+      model_path: foods/poached_lobster
+      custom_model_data: 1998278
+  foods-salmon_en_croute:
+    enabled: true
+    resource:
+      material: COOKIE
+      generate: false
+      model_path: foods/salmon_en_croute
+      custom_model_data: 1998279
+  foods-stuffed_hen:
+    enabled: true
+    resource:
+      material: COOKIE
+      generate: false
+      model_path: foods/stuffed_hen
+      custom_model_data: 1998280
+  foods-tender_steak:
+    enabled: true
+    resource:
+      material: COOKIE
+      generate: false
+      model_path: foods/tender_steak
+      custom_model_data: 1998281
+  foods-titanic_goulash:
+    enabled: true
+    resource:
+      material: COOKIE
+      generate: false
+      model_path: foods/titanic_goulash
+      custom_model_data: 1998282
+  foods-wagyu_steak:
+    enabled: true
+    resource:
+      material: COOKIE
+      generate: false
+      model_path: foods/wagyu_steak
+      custom_model_data: 1998283
+  weapons-copper_dagger:
+    enabled: true
+    resource:
+      material: IRON_SWORD
+      generate: false
+      model_path: weapons/copper_dagger
+      custom_model_data: 9918390
+  weapons-copper_mace:
+    enabled: true
+    resource:
+      material: IRON_SWORD
+      generate: false
+      model_path: weapons/copper_mace
+      custom_model_data: 9918391
+  weapons-copper_rapier:
+    enabled: true
+    resource:
+      material: IRON_SWORD
+      generate: false
+      model_path: weapons/copper_rapier
+      custom_model_data: 9918392
+  weapons-copper_warhammer:
+    enabled: true
+    resource:
+      material: IRON_SWORD
+      generate: false
+      model_path: weapons/copper_warhammer
+      custom_model_data: 9918395
+  weapons-copper_spear:
+    enabled: true
+    resource:
+      material: IRON_SWORD
+      generate: false
+      model_path: weapons/copper_spear
+      custom_model_data: 9918396
+  weapons-copper_greataxe:
+    enabled: true
+    resource:
+      material: IRON_SWORD
+      generate: false
+      model_path: weapons/copper_greataxe
+      custom_model_data: 9918397
+  weapons-copper_knuckles:
+    enabled: true
+    resource:
+      material: IRON_SWORD
+      generate: false
+      model_path: weapons/copper_knuckles
+      custom_model_data: 9918397
+  materials-unstable_diamond:
+    enabled: true
+    resource:
+      material: DIAMOND
+      generate: false
+      model_path: materials/unstable_diamond
+      custom_model_data: 9827320
+  tools-royal_diamond_axe:
+    enabled: true
+    resource:
+      material: DIAMOND_AXE
+      generate: false
+      model_path: tools/royal_diamond_axe
+      custom_model_data: 1981900
+  armor-royal_diamond_boots:
+    enabled: true
+    resource:
+      material: DIAMOND_BOOTS
+      generate: false
+      model_path: armor/royal_diamond_boots
+      custom_model_data: 9918292
+  armor-royal_diamond_chestplate:
+    enabled: true
+    resource:
+      material: DIAMOND_CHESTPLATE
+      generate: false
+      model_path: armor/royal_diamond_chestplate
+      custom_model_data: 9918292
+  armor-royal_diamond_helmet:
+    enabled: true
+    resource:
+      material: DIAMOND_HELMET
+      generate: false
+      model_path: armor/royal_diamond_helmet
+      custom_model_data: 9918292
+  tools-royal_diamond_hoe:
+    enabled: true
+    resource:
+      material: DIAMOND_HOE
+      generate: false
+      model_path: tools/royal_diamond_hoe
+      custom_model_data: 1981900
+  armor-royal_diamond_leggings:
+    enabled: true
+    resource:
+      material: DIAMOND_LEGGINGS
+      generate: false
+      model_path: armor/royal_diamond_leggings
+      custom_model_data: 9918292
+  gui-button_custom_tool_requirement:
+    enabled: true
+    resource:
+      material: DIAMOND_PICKAXE
+      generate: false
+      model_path: gui/button_custom_tool_requirement
+      custom_model_data: 1829130
+  tools-royal_diamond_pickaxe:
+    enabled: true
+    resource:
+      material: DIAMOND_PICKAXE
+      generate: false
+      model_path: tools/royal_diamond_pickaxe
+      custom_model_data: 1981900
+  tools-royal_diamond_shovel:
+    enabled: true
+    resource:
+      material: DIAMOND_SHOVEL
+      generate: false
+      model_path: tools/royal_diamond_shovel
+      custom_model_data: 1981900
+  weapons-diamond_dagger:
+    enabled: true
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: weapons/diamond_dagger
+      custom_model_data: 1981820
+  weapons-diamond_mace:
+    enabled: true
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: weapons/diamond_mace
+      custom_model_data: 1981821
+  weapons-diamond_rapier:
+    enabled: true
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: weapons/diamond_rapier
+      custom_model_data: 1981822
+  weapons-diamond_warhammer:
+    enabled: true
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: weapons/diamond_warhammer
+      custom_model_data: 1981825
+  weapons-diamond_spear:
+    enabled: true
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: weapons/diamond_spear
+      custom_model_data: 1981826
+  weapons-diamond_greataxe:
+    enabled: true
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: weapons/diamond_greataxe
+      custom_model_data: 1981827
+  weapons-diamond_knuckles:
+    enabled: true
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: weapons/diamond_knuckles
+      custom_model_data: 1981840
+  weapons-royal_diamond_dagger:
+    enabled: true
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: weapons/royal_diamond_dagger
+      custom_model_data: 1981920
+  weapons-royal_diamond_mace:
+    enabled: true
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: weapons/royal_diamond_mace
+      custom_model_data: 1981921
+  weapons-royal_diamond_rapier:
+    enabled: true
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: weapons/royal_diamond_rapier
+      custom_model_data: 1981922
+  weapons-royal_diamond_warhammer:
+    enabled: true
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: weapons/royal_diamond_warhammer
+      custom_model_data: 1981925
+  weapons-royal_diamond_spear:
+    enabled: true
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: weapons/royal_diamond_spear
+      custom_model_data: 1981926
+  weapons-royal_diamond_greataxe:
+    enabled: true
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: weapons/royal_diamond_greataxe
+      custom_model_data: 1981927
+  weapons-royal_diamond_knuckles:
+    enabled: true
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: weapons/royal_diamond_knuckles
+      custom_model_data: 1981940
+  weapons-royal_diamond_sword:
+    enabled: true
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: weapons/royal_diamond_sword
+      custom_model_data: 1981941
+  misc-potion_belt:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: misc/potion_belt
+      custom_model_data: 1182920
+  trinkets-rough_gold_ring:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/rough_gold_ring
+      custom_model_data: 7780900
+  trinkets-rough_gold_necklace_amulet:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/rough_gold_necklace_amulet
+      custom_model_data: 7780901
+  trinkets-rough_gold_circlet:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/rough_gold_circlet
+      custom_model_data: 7780902
+  trinkets-rough_gold_bracer:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/rough_gold_bracer
+      custom_model_data: 7780903
+  trinkets-gold_necklace_amulet:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/gold_necklace_amulet
+      custom_model_data: 7780910
+  trinkets-gold_ring:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/gold_ring
+      custom_model_data: 7781100
+  trinkets-ruby_gold_ring:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/ruby_gold_ring
+      custom_model_data: 7781101
+  trinkets-emerald_gold_ring:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/emerald_gold_ring
+      custom_model_data: 7781102
+  trinkets-opal_gold_ring:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/opal_gold_ring
+      custom_model_data: 7781103
+  trinkets-sapphire_gold_ring:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/sapphire_gold_ring
+      custom_model_data: 7781104
+  trinkets-topaz_gold_ring:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/topaz_gold_ring
+      custom_model_data: 7781105
+  trinkets-peridot_gold_ring:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/peridot_gold_ring
+      custom_model_data: 7781106
+  trinkets-diamond_gold_ring:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/diamond_gold_ring
+      custom_model_data: 7781107
+  trinkets-amethyst_gold_ring:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/amethyst_gold_ring
+      custom_model_data: 7781108
+  trinkets-gold_necklace:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/gold_necklace
+      custom_model_data: 7781200
+  trinkets-ruby_gold_necklace:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/ruby_gold_necklace
+      custom_model_data: 7781201
+  trinkets-emerald_gold_necklace:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/emerald_gold_necklace
+      custom_model_data: 7781202
+  trinkets-opal_gold_necklace:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/opal_gold_necklace
+      custom_model_data: 7781203
+  trinkets-sapphire_gold_necklace:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/sapphire_gold_necklace
+      custom_model_data: 7781204
+  trinkets-topaz_gold_necklace:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/topaz_gold_necklace
+      custom_model_data: 7781205
+  trinkets-peridot_gold_necklace:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/peridot_gold_necklace
+      custom_model_data: 7781206
+  trinkets-diamond_gold_necklace:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/diamond_gold_necklace
+      custom_model_data: 7781207
+  trinkets-amethyst_gold_necklace:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/amethyst_gold_necklace
+      custom_model_data: 7781208
+  trinkets-gold_bracer:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/gold_bracer
+      custom_model_data: 7781300
+  trinkets-ruby_gold_bracer:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/ruby_gold_bracer
+      custom_model_data: 7781301
+  trinkets-emerald_gold_bracer:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/emerald_gold_bracer
+      custom_model_data: 7781302
+  trinkets-opal_gold_bracer:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/opal_gold_bracer
+      custom_model_data: 7781303
+  trinkets-sapphire_gold_bracer:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/sapphire_gold_bracer
+      custom_model_data: 7781304
+  trinkets-topaz_gold_bracer:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/topaz_gold_bracer
+      custom_model_data: 7781305
+  trinkets-peridot_gold_bracer:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/peridot_gold_bracer
+      custom_model_data: 7781306
+  trinkets-diamond_gold_bracer:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/diamond_gold_bracer
+      custom_model_data: 7781307
+  trinkets-amethyst_gold_bracer:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/amethyst_gold_bracer
+      custom_model_data: 7781308
+  trinkets-gold_armring:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/gold_armring
+      custom_model_data: 7781320
+  trinkets-silver_armring:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/silver_armring
+      custom_model_data: 7781330
+  trinkets-gold_circlet:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/gold_circlet
+      custom_model_data: 7781400
+  trinkets-ruby_gold_circlet:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/ruby_gold_circlet
+      custom_model_data: 7781401
+  trinkets-emerald_gold_circlet:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/emerald_gold_circlet
+      custom_model_data: 7781402
+  trinkets-opal_gold_circlet:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/opal_gold_circlet
+      custom_model_data: 7781403
+  trinkets-sapphire_gold_circlet:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/sapphire_gold_circlet
+      custom_model_data: 7781404
+  trinkets-topaz_gold_circlet:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/topaz_gold_circlet
+      custom_model_data: 7781405
+  trinkets-peridot_gold_circlet:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/peridot_gold_circlet
+      custom_model_data: 7781406
+  trinkets-diamond_gold_circlet:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/diamond_gold_circlet
+      custom_model_data: 7781407
+  trinkets-amethyst_gold_circlet:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/amethyst_gold_circlet
+      custom_model_data: 7781408
+  trinkets-trinket_armband_bezoar:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_armband_bezoar
+      custom_model_data: 7781500
+  trinkets-trinket_armband_purity:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_armband_purity
+      custom_model_data: 7781501
+  trinkets-trinket_armband_force:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_armband_force
+      custom_model_data: 7781502
+  trinkets-trinket_armband_titans_glove:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_armband_titans_glove
+      custom_model_data: 7781503
+  trinkets-trinket_armband_precision:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_armband_precision
+      custom_model_data: 7781504
+  trinkets-trinket_armband_deathbringer:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_armband_deathbringer
+      custom_model_data: 7781505
+  trinkets-trinket_armband_regeneration:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_armband_regeneration
+      custom_model_data: 7781506
+  trinkets-trinket_armband_rebirth:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_armband_rebirth
+      custom_model_data: 7781507
+  trinkets-trinket_armband_bandaid:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_armband_bandaid
+      custom_model_data: 7781508
+  trinkets-trinket_armband_transfusion:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_armband_transfusion
+      custom_model_data: 7781509
+  trinkets-trinket_armband_armored_bracer:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_armband_armored_bracer
+      custom_model_data: 7781510
+  trinkets-trinket_armband_juggernaut:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_armband_juggernaut
+      custom_model_data: 7781511
+  trinkets-trinket_necklace_cross:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_necklace_cross
+      custom_model_data: 7781520
+  trinkets-trinket_necklace_divine_blessing:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_necklace_divine_blessing
+      custom_model_data: 7781521
+  trinkets-trinket_necklace_magic_quiver:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_necklace_magic_quiver
+      custom_model_data: 7781522
+  trinkets-trinket_necklace_artemis:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_necklace_artemis
+      custom_model_data: 7781523
+  trinkets-trinket_necklace_mania:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_necklace_mania
+      custom_model_data: 7781524
+  trinkets-trinket_necklace_furyforged:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_necklace_furyforged
+      custom_model_data: 7781525
+  trinkets-trinket_necklace_avenger:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_necklace_avenger
+      custom_model_data: 7781526
+  trinkets-trinket_necklace_kratos:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_necklace_kratos
+      custom_model_data: 7781527
+  trinkets-trinket_necklace_adrenaline:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_necklace_adrenaline
+      custom_model_data: 7781528
+  trinkets-trinket_necklace_hermes:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_necklace_hermes
+      custom_model_data: 7781529
+  trinkets-trinket_necklace_vigor:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_necklace_vigor
+      custom_model_data: 7781530
+  trinkets-trinket_necklace_erinle:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_necklace_erinle
+      custom_model_data: 7781531
+  trinkets-trinket_ring_deflection:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_ring_deflection
+      custom_model_data: 7781540
+  trinkets-trinket_ring_athena:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_ring_athena
+      custom_model_data: 7781541
+  trinkets-trinket_ring_obsidian:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_ring_obsidian
+      custom_model_data: 7781542
+  trinkets-trinket_ring_narya:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_ring_narya
+      custom_model_data: 7781543
+  trinkets-trinket_ring_protection:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_ring_protection
+      custom_model_data: 7781544
+  trinkets-trinket_ring_primordial:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_ring_primordial
+      custom_model_data: 7781545
+  trinkets-trinket_ring_reach:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_ring_reach
+      custom_model_data: 7781546
+  trinkets-trinket_ring_gungnir:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_ring_gungnir
+      custom_model_data: 7781547
+  trinkets-trinket_ring_shattering:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_ring_shattering
+      custom_model_data: 7781548
+  trinkets-trinket_ring_paladins_bane:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_ring_paladins_bane
+      custom_model_data: 7781549
+  trinkets-trinket_ring_warding:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_ring_warding
+      custom_model_data: 7781550
+  trinkets-trinket_ring_magnus:
+    enabled: true
+    resource:
+      material: ENCHANTED_BOOK
+      generate: false
+      model_path: trinkets/trinket_ring_magnus
+      custom_model_data: 7781551
+  materials-gold_plate:
+    enabled: true
+    resource:
+      material: GOLD_INGOT
+      generate: false
+      model_path: materials/gold_plate
+      custom_model_data: 7782120
+  materials-hot_gold_ingot:
+    enabled: true
+    resource:
+      material: GOLD_INGOT
+      generate: false
+      model_path: materials/hot_gold_ingot
+      custom_model_data: 9827320
+  trinkets-gold_necklace_2:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/gold_necklace_2
+      custom_model_data: 7781098
+  trinkets-gold_ring_2:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: trinkets/gold_ring_2
+      custom_model_data: 7781099
+  materials-gold_strip:
+    enabled: true
+    resource:
+      material: GOLD_NUGGET
+      generate: false
+      model_path: materials/gold_strip
+      custom_model_data: 7782110
+  foods-jewelled_apple:
+    enabled: true
+    resource:
+      material: GOLDEN_APPLE
+      generate: false
+      model_path: foods/jewelled_apple
+      custom_model_data: 1998270
+  foods-caviar:
+    enabled: true
+    resource:
+      material: GOLDEN_APPLE
+      generate: false
+      model_path: foods/caviar
+      custom_model_data: 1998271
+  foods-churro:
+    enabled: true
+    resource:
+      material: GOLDEN_APPLE
+      generate: false
+      model_path: foods/churro
+      custom_model_data: 1998272
+  foods-golden_apple_pie:
+    enabled: true
+    resource:
+      material: GOLDEN_APPLE
+      generate: false
+      model_path: foods/golden_apple_pie
+      custom_model_data: 1998273
+  foods-regeneration_mushroom_stew:
+    enabled: true
+    resource:
+      material: GOLDEN_APPLE
+      generate: false
+      model_path: foods/regeneration_mushroom_stew
+      custom_model_data: 1998274
+  foods-uni_sushi:
+    enabled: true
+    resource:
+      material: GOLDEN_APPLE
+      generate: false
+      model_path: foods/uni_sushi
+      custom_model_data: 1998275
+  weapons-golden_dagger:
+    enabled: true
+    resource:
+      material: GOLDEN_SWORD
+      generate: false
+      model_path: weapons/golden_dagger
+      custom_model_data: 1981820
+  weapons-golden_mace:
+    enabled: true
+    resource:
+      material: GOLDEN_SWORD
+      generate: false
+      model_path: weapons/golden_mace
+      custom_model_data: 1981821
+  weapons-golden_rapier:
+    enabled: true
+    resource:
+      material: GOLDEN_SWORD
+      generate: false
+      model_path: weapons/golden_rapier
+      custom_model_data: 1981822
+  weapons-golden_warhammer:
+    enabled: true
+    resource:
+      material: GOLDEN_SWORD
+      generate: false
+      model_path: weapons/golden_warhammer
+      custom_model_data: 1981825
+  weapons-golden_spear:
+    enabled: true
+    resource:
+      material: GOLDEN_SWORD
+      generate: false
+      model_path: weapons/golden_spear
+      custom_model_data: 1981826
+  weapons-golden_greataxe:
+    enabled: true
+    resource:
+      material: GOLDEN_SWORD
+      generate: false
+      model_path: weapons/golden_greataxe
+      custom_model_data: 1981827
+  weapons-golden_knuckles:
+    enabled: true
+    resource:
+      material: GOLDEN_SWORD
+      generate: false
+      model_path: weapons/golden_knuckles
+      custom_model_data: 1981840
+  gui-connection_pieces-locked_direct_vertical:
+    enabled: true
+    resource:
+      material: GRAY_DYE
+      generate: false
+      model_path: gui/connection_pieces/locked_direct_vertical
+      custom_model_data: 1172700
+  gui-connection_pieces-locked_direct_horizontal:
+    enabled: true
+    resource:
+      material: GRAY_DYE
+      generate: false
+      model_path: gui/connection_pieces/locked_direct_horizontal
+      custom_model_data: 1172701
+  gui-connection_pieces-locked_direct_corner_botlft:
+    enabled: true
+    resource:
+      material: GRAY_DYE
+      generate: false
+      model_path: gui/connection_pieces/locked_direct_corner_botlft
+      custom_model_data: 1172702
+  gui-connection_pieces-locked_direct_corner_toplft:
+    enabled: true
+    resource:
+      material: GRAY_DYE
+      generate: false
+      model_path: gui/connection_pieces/locked_direct_corner_toplft
+      custom_model_data: 1172703
+  gui-connection_pieces-locked_direct_corner_botrgt:
+    enabled: true
+    resource:
+      material: GRAY_DYE
+      generate: false
+      model_path: gui/connection_pieces/locked_direct_corner_botrgt
+      custom_model_data: 1172704
+  gui-connection_pieces-locked_direct_corner_toprgt:
+    enabled: true
+    resource:
+      material: GRAY_DYE
+      generate: false
+      model_path: gui/connection_pieces/locked_direct_corner_toprgt
+      custom_model_data: 1172705
+  gui-connection_pieces-locked_continuous_vertical:
+    enabled: true
+    resource:
+      material: GRAY_DYE
+      generate: false
+      model_path: gui/connection_pieces/locked_continuous_vertical
+      custom_model_data: 1172706
+  gui-connection_pieces-locked_continuous_horizontal:
+    enabled: true
+    resource:
+      material: GRAY_DYE
+      generate: false
+      model_path: gui/connection_pieces/locked_continuous_horizontal
+      custom_model_data: 1172707
+  gui-connection_pieces-locked_endpoint_horiz_right:
+    enabled: true
+    resource:
+      material: GRAY_DYE
+      generate: false
+      model_path: gui/connection_pieces/locked_endpoint_horiz_right
+      custom_model_data: 1172708
+  gui-connection_pieces-locked_endpoint_horiz_left:
+    enabled: true
+    resource:
+      material: GRAY_DYE
+      generate: false
+      model_path: gui/connection_pieces/locked_endpoint_horiz_left
+      custom_model_data: 1172709
+  gui-connection_pieces-locked_endpoint_verti_top:
+    enabled: true
+    resource:
+      material: GRAY_DYE
+      generate: false
+      model_path: gui/connection_pieces/locked_endpoint_verti_top
+      custom_model_data: 1172710
+  gui-connection_pieces-locked_endpoint_verti_bottom:
+    enabled: true
+    resource:
+      material: GRAY_DYE
+      generate: false
+      model_path: gui/connection_pieces/locked_endpoint_verti_bottom
+      custom_model_data: 1172711
+  gui-connection_pieces-locked_endpoint_corner_botlft_side:
+    enabled: true
+    resource:
+      material: GRAY_DYE
+      generate: false
+      model_path: gui/connection_pieces/locked_endpoint_corner_botlft_side
+      custom_model_data: 1172712
+  gui-connection_pieces-locked_endpoint_corner_toplft_side:
+    enabled: true
+    resource:
+      material: GRAY_DYE
+      generate: false
+      model_path: gui/connection_pieces/locked_endpoint_corner_toplft_side
+      custom_model_data: 1172713
+  gui-connection_pieces-locked_endpoint_corner_botrgt_side:
+    enabled: true
+    resource:
+      material: GRAY_DYE
+      generate: false
+      model_path: gui/connection_pieces/locked_endpoint_corner_botrgt_side
+      custom_model_data: 1172714
+  gui-connection_pieces-locked_endpoint_corner_toprgt_side:
+    enabled: true
+    resource:
+      material: GRAY_DYE
+      generate: false
+      model_path: gui/connection_pieces/locked_endpoint_corner_toprgt_side
+      custom_model_data: 1172715
+  gui-connection_pieces-locked_endpoint_corner_botlft_ends:
+    enabled: true
+    resource:
+      material: GRAY_DYE
+      generate: false
+      model_path: gui/connection_pieces/locked_endpoint_corner_botlft_ends
+      custom_model_data: 1172716
+  gui-connection_pieces-locked_endpoint_corner_toplft_ends:
+    enabled: true
+    resource:
+      material: GRAY_DYE
+      generate: false
+      model_path: gui/connection_pieces/locked_endpoint_corner_toplft_ends
+      custom_model_data: 1172717
+  gui-connection_pieces-locked_endpoint_corner_botrgt_ends:
+    enabled: true
+    resource:
+      material: GRAY_DYE
+      generate: false
+      model_path: gui/connection_pieces/locked_endpoint_corner_botrgt_ends
+      custom_model_data: 1172718
+  gui-connection_pieces-locked_endpoint_corner_toprgt_ends:
+    enabled: true
+    resource:
+      material: GRAY_DYE
+      generate: false
+      model_path: gui/connection_pieces/locked_endpoint_corner_toprgt_ends
+      custom_model_data: 1172719
+  gui-connection_pieces-locked_continuous_corner_botlft:
+    enabled: true
+    resource:
+      material: GRAY_DYE
+      generate: false
+      model_path: gui/connection_pieces/locked_continuous_corner_botlft
+      custom_model_data: 1172720
+  gui-connection_pieces-locked_continuous_corner_toplft:
+    enabled: true
+    resource:
+      material: GRAY_DYE
+      generate: false
+      model_path: gui/connection_pieces/locked_continuous_corner_toplft
+      custom_model_data: 1172721
+  gui-connection_pieces-locked_continuous_corner_botrgt:
+    enabled: true
+    resource:
+      material: GRAY_DYE
+      generate: false
+      model_path: gui/connection_pieces/locked_continuous_corner_botrgt
+      custom_model_data: 1172722
+  gui-connection_pieces-locked_continuous_corner_toprgt:
+    enabled: true
+    resource:
+      material: GRAY_DYE
+      generate: false
+      model_path: gui/connection_pieces/locked_continuous_corner_toprgt
+      custom_model_data: 1172723
+  materials-sharpening_stone:
+    enabled: true
+    resource:
+      material: GRAY_DYE
+      generate: false
+      model_path: materials/sharpening_stone
+      custom_model_data: 8892300
+  materials-melted_wax:
+    enabled: true
+    resource:
+      material: HONEYCOMB
+      generate: false
+      model_path: materials/melted_wax
+      custom_model_data: 9827320
+  gui-skillicon_heavyweapons:
+    enabled: true
+    resource:
+      material: IRON_AXE
+      generate: false
+      model_path: gui/skillicon_heavyweapons
+      custom_model_data: 3510001
+  gui-skillicon_landscaping:
+    enabled: true
+    resource:
+      material: IRON_AXE
+      generate: false
+      model_path: gui/skillicon_landscaping
+      custom_model_data: 3510002
+  tools-copper_axe:
+    enabled: true
+    resource:
+      material: IRON_AXE
+      generate: false
+      model_path: tools/copper_axe
+      custom_model_data: 9918290
+  armor-copper_boots:
+    enabled: true
+    resource:
+      material: IRON_BOOTS
+      generate: false
+      model_path: armor/copper_boots
+      custom_model_data: 9918290
+  gui-skillicon_heavyarmor:
+    enabled: true
+    resource:
+      material: IRON_CHESTPLATE
+      generate: false
+      model_path: gui/skillicon_heavyarmor
+      custom_model_data: 3510001
+  armor-copper_chestplate:
+    enabled: true
+    resource:
+      material: IRON_CHESTPLATE
+      generate: false
+      model_path: armor/copper_chestplate
+      custom_model_data: 9918290
+  armor-copper_helmet:
+    enabled: true
+    resource:
+      material: IRON_HELMET
+      generate: false
+      model_path: armor/copper_helmet
+      custom_model_data: 9918290
+  gui-button_select_tool:
+    enabled: true
+    resource:
+      material: IRON_HOE
+      generate: false
+      model_path: gui/button_select_tool
+      custom_model_data: 1829130
+  gui-skillicon_farming:
+    enabled: true
+    resource:
+      material: IRON_HOE
+      generate: false
+      model_path: gui/skillicon_farming
+      custom_model_data: 3510001
+  tools-copper_hoe:
+    enabled: true
+    resource:
+      material: IRON_HOE
+      generate: false
+      model_path: tools/copper_hoe
+      custom_model_data: 9918290
+  materials-hot_iron_ingot:
+    enabled: true
+    resource:
+      material: IRON_INGOT
+      generate: false
+      model_path: materials/hot_iron_ingot
+      custom_model_data: 9827320
+  armor-copper_leggings:
+    enabled: true
+    resource:
+      material: IRON_LEGGINGS
+      generate: false
+      model_path: armor/copper_leggings
+      custom_model_data: 9918290
+  gui-skillicon_mining:
+    enabled: true
+    resource:
+      material: IRON_PICKAXE
+      generate: false
+      model_path: gui/skillicon_mining
+      custom_model_data: 3510001
+  tools-copper_pickaxe:
+    enabled: true
+    resource:
+      material: IRON_PICKAXE
+      generate: false
+      model_path: tools/copper_pickaxe
+      custom_model_data: 9918290
+  tools-copper_shovel:
+    enabled: true
+    resource:
+      material: IRON_SHOVEL
+      generate: false
+      model_path: tools/copper_shovel
+      custom_model_data: 9918290
+  weapons-cleaver:
+    enabled: true
+    resource:
+      material: IRON_SWORD
+      generate: false
+      model_path: weapons/cleaver
+      custom_model_data: 1981819
+  weapons-iron_dagger:
+    enabled: true
+    resource:
+      material: IRON_SWORD
+      generate: false
+      model_path: weapons/iron_dagger
+      custom_model_data: 1981820
+  weapons-iron_mace:
+    enabled: true
+    resource:
+      material: IRON_SWORD
+      generate: false
+      model_path: weapons/iron_mace
+      custom_model_data: 1981821
+  weapons-iron_rapier:
+    enabled: true
+    resource:
+      material: IRON_SWORD
+      generate: false
+      model_path: weapons/iron_rapier
+      custom_model_data: 1981822
+  weapons-iron_warhammer:
+    enabled: true
+    resource:
+      material: IRON_SWORD
+      generate: false
+      model_path: weapons/iron_warhammer
+      custom_model_data: 1981825
+  weapons-iron_spear:
+    enabled: true
+    resource:
+      material: IRON_SWORD
+      generate: false
+      model_path: weapons/iron_spear
+      custom_model_data: 1981826
+  weapons-iron_greataxe:
+    enabled: true
+    resource:
+      material: IRON_SWORD
+      generate: false
+      model_path: weapons/iron_greataxe
+      custom_model_data: 1981827
+  weapons-iron_knuckles:
+    enabled: true
+    resource:
+      material: IRON_SWORD
+      generate: false
+      model_path: weapons/iron_knuckles
+      custom_model_data: 1981840
+  gui-skillicon_lightweapons:
+    enabled: true
+    resource:
+      material: IRON_SWORD
+      generate: false
+      model_path: gui/skillicon_lightweapons
+      custom_model_data: 3510001
+  weapons-copper_sword:
+    enabled: true
+    resource:
+      material: IRON_SWORD
+      generate: false
+      model_path: weapons/copper_sword
+      custom_model_data: 9918290
+  materials-choral_leather:
+    enabled: true
+    resource:
+      material: LEATHER
+      generate: false
+      model_path: materials/choral_leather
+      custom_model_data: 8892630
+  armor-assassin_boots:
+    enabled: true
+    resource:
+      material: LEATHER_BOOTS
+      generate: false
+      model_path: armor/assassin_boots
+      custom_model_data: 9918291
+  armor-turtle_boots:
+    enabled: true
+    resource:
+      material: LEATHER_BOOTS
+      generate: false
+      model_path: armor/turtle_boots
+      custom_model_data: 9918294
+  gui-skillicon_lightarmor:
+    enabled: true
+    resource:
+      material: LEATHER_CHESTPLATE
+      generate: false
+      model_path: gui/skillicon_lightarmor
+      custom_model_data: 3510001
+  armor-assassin_chestplate:
+    enabled: true
+    resource:
+      material: LEATHER_CHESTPLATE
+      generate: false
+      model_path: armor/assassin_chestplate
+      custom_model_data: 9918291
+  armor-turtle_chestplate:
+    enabled: true
+    resource:
+      material: LEATHER_CHESTPLATE
+      generate: false
+      model_path: armor/turtle_chestplate
+      custom_model_data: 9918294
+  armor-assassin_helmet:
+    enabled: true
+    resource:
+      material: LEATHER_HELMET
+      generate: false
+      model_path: armor/assassin_helmet
+      custom_model_data: 9918291
+  armor-assassin_leggings:
+    enabled: true
+    resource:
+      material: LEATHER_LEGGINGS
+      generate: false
+      model_path: armor/assassin_leggings
+      custom_model_data: 9918291
+  armor-turtle_leggings:
+    enabled: true
+    resource:
+      material: LEATHER_LEGGINGS
+      generate: false
+      model_path: armor/turtle_leggings
+      custom_model_data: 9918294
+  materials-diamond_dust:
+    enabled: true
+    resource:
+      material: LIGHT_BLUE_DYE
+      generate: false
+      model_path: materials/diamond_dust
+      custom_model_data: 8892300
+  materials-diamond_shard:
+    enabled: true
+    resource:
+      material: LIGHT_BLUE_DYE
+      generate: false
+      model_path: materials/diamond_shard
+      custom_model_data: 8892301
+  materials-alchemical_powder:
+    enabled: true
+    resource:
+      material: LIGHT_GRAY_DYE
+      generate: false
+      model_path: materials/alchemical_powder
+      custom_model_data: 8892300
+  materials-polishing_stone:
+    enabled: true
+    resource:
+      material: LIGHT_GRAY_DYE
+      generate: false
+      model_path: materials/polishing_stone
+      custom_model_data: 8892301
+  gui-connection_pieces-unlocked_direct_vertical:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlocked_direct_vertical
+      custom_model_data: 1172900
+  gui-connection_pieces-unlocked_direct_horizontal:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlocked_direct_horizontal
+      custom_model_data: 1172901
+  gui-connection_pieces-unlocked_direct_corner_botlft:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlocked_direct_corner_botlft
+      custom_model_data: 1172902
+  gui-connection_pieces-unlocked_direct_corner_toplft:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlocked_direct_corner_toplft
+      custom_model_data: 1172903
+  gui-connection_pieces-unlocked_direct_corner_botrgt:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlocked_direct_corner_botrgt
+      custom_model_data: 1172904
+  gui-connection_pieces-unlocked_direct_corner_toprgt:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlocked_direct_corner_toprgt
+      custom_model_data: 1172905
+  gui-connection_pieces-unlocked_continuous_vertical:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlocked_continuous_vertical
+      custom_model_data: 1172906
+  gui-connection_pieces-unlocked_continuous_horizontal:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlocked_continuous_horizontal
+      custom_model_data: 1172907
+  gui-connection_pieces-unlocked_endpoint_horiz_right:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlocked_endpoint_horiz_right
+      custom_model_data: 1172908
+  gui-connection_pieces-unlocked_endpoint_horiz_left:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlocked_endpoint_horiz_left
+      custom_model_data: 1172909
+  gui-connection_pieces-unlocked_endpoint_verti_top:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlocked_endpoint_verti_top
+      custom_model_data: 1172910
+  gui-connection_pieces-unlocked_endpoint_verti_bottom:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlocked_endpoint_verti_bottom
+      custom_model_data: 1172911
+  gui-connection_pieces-unlocked_endpoint_corner_botlft_side:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlocked_endpoint_corner_botlft_side
+      custom_model_data: 1172912
+  gui-connection_pieces-unlocked_endpoint_corner_toplft_side:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlocked_endpoint_corner_toplft_side
+      custom_model_data: 1172913
+  gui-connection_pieces-unlocked_endpoint_corner_botrgt_side:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlocked_endpoint_corner_botrgt_side
+      custom_model_data: 1172914
+  gui-connection_pieces-unlocked_endpoint_corner_toprgt_side:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlocked_endpoint_corner_toprgt_side
+      custom_model_data: 1172915
+  gui-connection_pieces-unlocked_endpoint_corner_botlft_ends:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlocked_endpoint_corner_botlft_ends
+      custom_model_data: 1172916
+  gui-connection_pieces-unlocked_endpoint_corner_toplft_ends:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlocked_endpoint_corner_toplft_ends
+      custom_model_data: 1172917
+  gui-connection_pieces-unlocked_endpoint_corner_botrgt_ends:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlocked_endpoint_corner_botrgt_ends
+      custom_model_data: 1172918
+  gui-connection_pieces-unlocked_endpoint_corner_toprgt_ends:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlocked_endpoint_corner_toprgt_ends
+      custom_model_data: 1172919
+  gui-connection_pieces-unlocked_continuous_corner_botlft:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlocked_continuous_corner_botlft
+      custom_model_data: 1172920
+  gui-connection_pieces-unlocked_continuous_corner_toplft:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlocked_continuous_corner_toplft
+      custom_model_data: 1172921
+  gui-connection_pieces-unlocked_continuous_corner_botrgt:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlocked_continuous_corner_botrgt
+      custom_model_data: 1172922
+  gui-connection_pieces-unlocked_continuous_corner_toprgt:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlocked_continuous_corner_toprgt
+      custom_model_data: 1172923
+  gui-button_newrecipe:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/button_newrecipe
+      custom_model_data: 1829130
+  gui-button_loot_selection_active:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/button_loot_selection_active
+      custom_model_data: 1829131
+  materials-tutor_lotus:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: materials/tutor_lotus
+      custom_model_data: 9192780
+  materials-steelblossom:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: materials/steelblossom
+      custom_model_data: 9192781
+  materials-shimmerleaf:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: materials/shimmerleaf
+      custom_model_data: 9192782
+  materials-goldroot:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: materials/goldroot
+      custom_model_data: 9192783
+  materials-pollen_stalks:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: materials/pollen_stalks
+      custom_model_data: 9192784
+  materials-knightsreed:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: materials/knightsreed
+      custom_model_data: 9192785
+  materials-burnt_bark:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: materials/burnt_bark
+      custom_model_data: 9192786
+  materials-ambrosial_nectar:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: materials/ambrosial_nectar
+      custom_model_data: 9192787
+  materials-bustling_fungus:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: materials/bustling_fungus
+      custom_model_data: 9192788
+  materials-calcified_seed:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: materials/calcified_seed
+      custom_model_data: 9192789
+  materials-withered_filament:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: materials/withered_filament
+      custom_model_data: 9192790
+  materials-noxious_spores:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: materials/noxious_spores
+      custom_model_data: 9192791
+  gui-merchants-services-service_ordering_confirm:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_ordering_confirm
+      custom_model_data: 9199199
+  gui-merchants-empty:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/empty
+      custom_model_data: 9199200
+  gui-merchants-services-service_trading_big:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_trading_big
+      custom_model_data: 9199201
+  gui-merchants-services-service_trading_medium:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_trading_medium
+      custom_model_data: 9199202
+  gui-merchants-services-service_trading_small:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_trading_small
+      custom_model_data: 9199203
+  gui-merchants-services-service_ordering_big:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_ordering_big
+      custom_model_data: 9199204
+  gui-merchants-services-service_ordering_medium:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_ordering_medium
+      custom_model_data: 9199205
+  gui-merchants-services-service_ordering_small:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_ordering_small
+      custom_model_data: 9199206
+  gui-merchants-services-service_training_big:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_big
+      custom_model_data: 9199207
+  gui-merchants-services-service_training_medium:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_medium
+      custom_model_data: 9199208
+  gui-merchants-services-service_training_small:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_small
+      custom_model_data: 9199209
+  gui-merchants-services-service_upgrading_big:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_upgrading_big
+      custom_model_data: 9199210
+  gui-merchants-services-service_upgrading_medium:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_upgrading_medium
+      custom_model_data: 9199211
+  gui-merchants-services-service_upgrading_small:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_upgrading_small
+      custom_model_data: 9199212
+  gui-merchants-services-service_learning_big:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_learning_big
+      custom_model_data: 9199213
+  gui-merchants-services-service_learning_medium:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_learning_medium
+      custom_model_data: 9199214
+  gui-merchants-services-service_learning_small:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_learning_small
+      custom_model_data: 9199215
+  gui-merchants-services-service_investing_big:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_investing_big
+      custom_model_data: 9199216
+  gui-merchants-services-service_investing_medium:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_investing_medium
+      custom_model_data: 9199217
+  gui-merchants-services-service_investing_small:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_investing_small
+      custom_model_data: 9199218
+  gui-merchants-services-service_training_skill_smithing_big:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_smithing_big
+      custom_model_data: 9199500
+  gui-merchants-services-service_training_skill_smithing_medium:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_smithing_medium
+      custom_model_data: 9199501
+  gui-merchants-services-service_training_skill_smithing_small:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_smithing_small
+      custom_model_data: 9199502
+  gui-merchants-services-service_training_skill_trading_big:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_trading_big
+      custom_model_data: 9199503
+  gui-merchants-services-service_training_skill_trading_medium:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_trading_medium
+      custom_model_data: 9199504
+  gui-merchants-services-service_training_skill_trading_small:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_trading_small
+      custom_model_data: 9199505
+  gui-merchants-services-service_training_skill_woodcutting_big:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_woodcutting_big
+      custom_model_data: 9199506
+  gui-merchants-services-service_training_skill_woodcutting_medium:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_woodcutting_medium
+      custom_model_data: 9199507
+  gui-merchants-services-service_training_skill_woodcutting_small:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_woodcutting_small
+      custom_model_data: 9199508
+  gui-merchants-services-service_training_skill_alchemy_big:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_alchemy_big
+      custom_model_data: 9199509
+  gui-merchants-services-service_training_skill_alchemy_medium:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_alchemy_medium
+      custom_model_data: 9199510
+  gui-merchants-services-service_training_skill_alchemy_small:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_alchemy_small
+      custom_model_data: 9199511
+  gui-merchants-services-service_training_skill_archery_big:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_archery_big
+      custom_model_data: 9199512
+  gui-merchants-services-service_training_skill_archery_medium:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_archery_medium
+      custom_model_data: 9199513
+  gui-merchants-services-service_training_skill_archery_small:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_archery_small
+      custom_model_data: 9199514
+  gui-merchants-services-service_training_skill_digging_big:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_digging_big
+      custom_model_data: 9199515
+  gui-merchants-services-service_training_skill_digging_medium:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_digging_medium
+      custom_model_data: 9199516
+  gui-merchants-services-service_training_skill_digging_small:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_digging_small
+      custom_model_data: 9199517
+  gui-merchants-services-service_training_skill_enchanting_big:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_enchanting_big
+      custom_model_data: 9199518
+  gui-merchants-services-service_training_skill_enchanting_medium:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_enchanting_medium
+      custom_model_data: 9199519
+  gui-merchants-services-service_training_skill_enchanting_small:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_enchanting_small
+      custom_model_data: 9199520
+  gui-merchants-services-service_training_skill_farming_big:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_farming_big
+      custom_model_data: 9199521
+  gui-merchants-services-service_training_skill_farming_medium:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_farming_medium
+      custom_model_data: 9199522
+  gui-merchants-services-service_training_skill_farming_small:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_farming_small
+      custom_model_data: 9199523
+  gui-merchants-services-service_training_skill_fishing_big:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_fishing_big
+      custom_model_data: 9199524
+  gui-merchants-services-service_training_skill_fishing_medium:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_fishing_medium
+      custom_model_data: 9199525
+  gui-merchants-services-service_training_skill_fishing_small:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_fishing_small
+      custom_model_data: 9199526
+  gui-merchants-services-service_training_skill_heavy_armor_big:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_heavy_armor_big
+      custom_model_data: 9199527
+  gui-merchants-services-service_training_skill_heavy_armor_medium:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_heavy_armor_medium
+      custom_model_data: 9199528
+  gui-merchants-services-service_training_skill_heavy_armor_small:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_heavy_armor_small
+      custom_model_data: 9199529
+  gui-merchants-services-service_training_skill_heavy_weapons_big:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_heavy_weapons_big
+      custom_model_data: 9199530
+  gui-merchants-services-service_training_skill_heavy_weapons_medium:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_heavy_weapons_medium
+      custom_model_data: 9199531
+  gui-merchants-services-service_training_skill_heavy_weapons_small:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_heavy_weapons_small
+      custom_model_data: 9199532
+  gui-merchants-services-service_training_skill_light_armor_big:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_light_armor_big
+      custom_model_data: 9199533
+  gui-merchants-services-service_training_skill_light_armor_medium:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_light_armor_medium
+      custom_model_data: 9199534
+  gui-merchants-services-service_training_skill_light_armor_small:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_light_armor_small
+      custom_model_data: 9199535
+  gui-merchants-services-service_training_skill_light_weapons_big:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_light_weapons_big
+      custom_model_data: 9199536
+  gui-merchants-services-service_training_skill_light_weapons_medium:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_light_weapons_medium
+      custom_model_data: 9199537
+  gui-merchants-services-service_training_skill_light_weapons_small:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_light_weapons_small
+      custom_model_data: 9199538
+  gui-merchants-services-service_training_skill_martial_arts_big:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_martial_arts_big
+      custom_model_data: 9199539
+  gui-merchants-services-service_training_skill_martial_arts_medium:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_martial_arts_medium
+      custom_model_data: 9199540
+  gui-merchants-services-service_training_skill_martial_arts_small:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_martial_arts_small
+      custom_model_data: 9199541
+  gui-merchants-services-service_training_skill_mining_big:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_mining_big
+      custom_model_data: 9199542
+  gui-merchants-services-service_training_skill_mining_medium:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_mining_medium
+      custom_model_data: 9199543
+  gui-merchants-services-service_training_skill_mining_small:
+    enabled: true
+    resource:
+      material: LIME_DYE
+      generate: false
+      model_path: gui/merchants/services/service_training_skill_mining_small
+      custom_model_data: 9199544
+  gui-button_favouriting:
+    enabled: true
+    resource:
+      material: NETHER_STAR
+      generate: false
+      model_path: gui/button_favouriting
+      custom_model_data: 1829130
+  tools-royal_netherite_axe:
+    enabled: true
+    resource:
+      material: NETHERITE_AXE
+      generate: false
+      model_path: tools/royal_netherite_axe
+      custom_model_data: 1981900
+  armor-royal_netherite_boots:
+    enabled: true
+    resource:
+      material: NETHERITE_BOOTS
+      generate: false
+      model_path: armor/royal_netherite_boots
+      custom_model_data: 9918293
+  armor-royal_netherite_chestplate:
+    enabled: true
+    resource:
+      material: NETHERITE_CHESTPLATE
+      generate: false
+      model_path: armor/royal_netherite_chestplate
+      custom_model_data: 9918293
+  armor-royal_netherite_helmet:
+    enabled: true
+    resource:
+      material: NETHERITE_HELMET
+      generate: false
+      model_path: armor/royal_netherite_helmet
+      custom_model_data: 9918293
+  tools-royal_netherite_hoe:
+    enabled: true
+    resource:
+      material: NETHERITE_HOE
+      generate: false
+      model_path: tools/royal_netherite_hoe
+      custom_model_data: 1981900
+  materials-hot_netherite_ingot:
+    enabled: true
+    resource:
+      material: NETHERITE_INGOT
+      generate: false
+      model_path: materials/hot_netherite_ingot
+      custom_model_data: 9827320
+  armor-royal_netherite_leggings:
+    enabled: true
+    resource:
+      material: NETHERITE_LEGGINGS
+      generate: false
+      model_path: armor/royal_netherite_leggings
+      custom_model_data: 9918293
+  tools-royal_netherite_pickaxe:
+    enabled: true
+    resource:
+      material: NETHERITE_PICKAXE
+      generate: false
+      model_path: tools/royal_netherite_pickaxe
+      custom_model_data: 1981900
+  tools-royal_netherite_shovel:
+    enabled: true
+    resource:
+      material: NETHERITE_SHOVEL
+      generate: false
+      model_path: tools/royal_netherite_shovel
+      custom_model_data: 1981900
+  weapons-netherite_dagger:
+    enabled: true
+    resource:
+      material: NETHERITE_SWORD
+      generate: false
+      model_path: weapons/netherite_dagger
+      custom_model_data: 1981820
+  weapons-netherite_mace:
+    enabled: true
+    resource:
+      material: NETHERITE_SWORD
+      generate: false
+      model_path: weapons/netherite_mace
+      custom_model_data: 1981821
+  weapons-netherite_rapier:
+    enabled: true
+    resource:
+      material: NETHERITE_SWORD
+      generate: false
+      model_path: weapons/netherite_rapier
+      custom_model_data: 1981822
+  weapons-netherite_warhammer:
+    enabled: true
+    resource:
+      material: NETHERITE_SWORD
+      generate: false
+      model_path: weapons/netherite_warhammer
+      custom_model_data: 1981825
+  weapons-netherite_spear:
+    enabled: true
+    resource:
+      material: NETHERITE_SWORD
+      generate: false
+      model_path: weapons/netherite_spear
+      custom_model_data: 1981826
+  weapons-netherite_greataxe:
+    enabled: true
+    resource:
+      material: NETHERITE_SWORD
+      generate: false
+      model_path: weapons/netherite_greataxe
+      custom_model_data: 1981827
+  weapons-netherite_knuckles:
+    enabled: true
+    resource:
+      material: NETHERITE_SWORD
+      generate: false
+      model_path: weapons/netherite_knuckles
+      custom_model_data: 1981840
+  weapons-royal_netherite_dagger:
+    enabled: true
+    resource:
+      material: NETHERITE_SWORD
+      generate: false
+      model_path: weapons/royal_netherite_dagger
+      custom_model_data: 1981920
+  weapons-royal_netherite_mace:
+    enabled: true
+    resource:
+      material: NETHERITE_SWORD
+      generate: false
+      model_path: weapons/royal_netherite_mace
+      custom_model_data: 1981921
+  weapons-royal_netherite_rapier:
+    enabled: true
+    resource:
+      material: NETHERITE_SWORD
+      generate: false
+      model_path: weapons/royal_netherite_rapier
+      custom_model_data: 1981922
+  weapons-royal_netherite_warhammer:
+    enabled: true
+    resource:
+      material: NETHERITE_SWORD
+      generate: false
+      model_path: weapons/royal_netherite_warhammer
+      custom_model_data: 1981925
+  weapons-royal_netherite_spear:
+    enabled: true
+    resource:
+      material: NETHERITE_SWORD
+      generate: false
+      model_path: weapons/royal_netherite_spear
+      custom_model_data: 1981926
+  weapons-royal_netherite_greataxe:
+    enabled: true
+    resource:
+      material: NETHERITE_SWORD
+      generate: false
+      model_path: weapons/royal_netherite_greataxe
+      custom_model_data: 1981927
+  weapons-royal_netherite_knuckles:
+    enabled: true
+    resource:
+      material: NETHERITE_SWORD
+      generate: false
+      model_path: weapons/royal_netherite_knuckles
+      custom_model_data: 1981940
+  weapons-royal_netherite_sword:
+    enabled: true
+    resource:
+      material: NETHERITE_SWORD
+      generate: false
+      model_path: weapons/royal_netherite_sword
+      custom_model_data: 1981941
+  gui-connection_pieces-unlockable_direct_vertical:
+    enabled: true
+    resource:
+      material: ORANGE_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlockable_direct_vertical
+      custom_model_data: 1172800
+  gui-connection_pieces-unlockable_direct_horizontal:
+    enabled: true
+    resource:
+      material: ORANGE_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlockable_direct_horizontal
+      custom_model_data: 1172801
+  gui-connection_pieces-unlockable_direct_corner_botlft:
+    enabled: true
+    resource:
+      material: ORANGE_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlockable_direct_corner_botlft
+      custom_model_data: 1172802
+  gui-connection_pieces-unlockable_direct_corner_toplft:
+    enabled: true
+    resource:
+      material: ORANGE_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlockable_direct_corner_toplft
+      custom_model_data: 1172803
+  gui-connection_pieces-unlockable_direct_corner_botrgt:
+    enabled: true
+    resource:
+      material: ORANGE_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlockable_direct_corner_botrgt
+      custom_model_data: 1172804
+  gui-connection_pieces-unlockable_direct_corner_toprgt:
+    enabled: true
+    resource:
+      material: ORANGE_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlockable_direct_corner_toprgt
+      custom_model_data: 1172805
+  gui-connection_pieces-unlockable_continuous_vertical:
+    enabled: true
+    resource:
+      material: ORANGE_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlockable_continuous_vertical
+      custom_model_data: 1172806
+  gui-connection_pieces-unlockable_continuous_horizontal:
+    enabled: true
+    resource:
+      material: ORANGE_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlockable_continuous_horizontal
+      custom_model_data: 1172807
+  gui-connection_pieces-unlockable_endpoint_horiz_right:
+    enabled: true
+    resource:
+      material: ORANGE_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlockable_endpoint_horiz_right
+      custom_model_data: 1172808
+  gui-connection_pieces-unlockable_endpoint_horiz_left:
+    enabled: true
+    resource:
+      material: ORANGE_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlockable_endpoint_horiz_left
+      custom_model_data: 1172809
+  gui-connection_pieces-unlockable_endpoint_verti_top:
+    enabled: true
+    resource:
+      material: ORANGE_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlockable_endpoint_verti_top
+      custom_model_data: 1172810
+  gui-connection_pieces-unlockable_endpoint_verti_bottom:
+    enabled: true
+    resource:
+      material: ORANGE_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlockable_endpoint_verti_bottom
+      custom_model_data: 1172811
+  gui-connection_pieces-unlockable_endpoint_corner_botlft_side:
+    enabled: true
+    resource:
+      material: ORANGE_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlockable_endpoint_corner_botlft_side
+      custom_model_data: 1172812
+  gui-connection_pieces-unlockable_endpoint_corner_toplft_side:
+    enabled: true
+    resource:
+      material: ORANGE_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlockable_endpoint_corner_toplft_side
+      custom_model_data: 1172813
+  gui-connection_pieces-unlockable_endpoint_corner_botrgt_side:
+    enabled: true
+    resource:
+      material: ORANGE_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlockable_endpoint_corner_botrgt_side
+      custom_model_data: 1172814
+  gui-connection_pieces-unlockable_endpoint_corner_toprgt_side:
+    enabled: true
+    resource:
+      material: ORANGE_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlockable_endpoint_corner_toprgt_side
+      custom_model_data: 1172815
+  gui-connection_pieces-unlockable_endpoint_corner_botlft_ends:
+    enabled: true
+    resource:
+      material: ORANGE_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlockable_endpoint_corner_botlft_ends
+      custom_model_data: 1172816
+  gui-connection_pieces-unlockable_endpoint_corner_toplft_ends:
+    enabled: true
+    resource:
+      material: ORANGE_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlockable_endpoint_corner_toplft_ends
+      custom_model_data: 1172817
+  gui-connection_pieces-unlockable_endpoint_corner_botrgt_ends:
+    enabled: true
+    resource:
+      material: ORANGE_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlockable_endpoint_corner_botrgt_ends
+      custom_model_data: 1172818
+  gui-connection_pieces-unlockable_endpoint_corner_toprgt_ends:
+    enabled: true
+    resource:
+      material: ORANGE_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlockable_endpoint_corner_toprgt_ends
+      custom_model_data: 1172819
+  gui-connection_pieces-unlockable_continuous_corner_botlft:
+    enabled: true
+    resource:
+      material: ORANGE_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlockable_continuous_corner_botlft
+      custom_model_data: 1172820
+  gui-connection_pieces-unlockable_continuous_corner_toplft:
+    enabled: true
+    resource:
+      material: ORANGE_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlockable_continuous_corner_toplft
+      custom_model_data: 1172821
+  gui-connection_pieces-unlockable_continuous_corner_botrgt:
+    enabled: true
+    resource:
+      material: ORANGE_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlockable_continuous_corner_botrgt
+      custom_model_data: 1172822
+  gui-connection_pieces-unlockable_continuous_corner_toprgt:
+    enabled: true
+    resource:
+      material: ORANGE_DYE
+      generate: false
+      model_path: gui/connection_pieces/unlockable_continuous_corner_toprgt
+      custom_model_data: 1172823
+  materials-copper_nugget:
+    enabled: true
+    resource:
+      material: ORANGE_DYE
+      generate: false
+      model_path: materials/copper_nugget
+      custom_model_data: 8892301
+  gui-button_toggle_unlocked_for_everyone:
+    enabled: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: gui/button_toggle_unlocked_for_everyone
+      custom_model_data: 1829130
+  gui-button_set_tool_requirement:
+    enabled: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: gui/button_set_tool_requirement
+      custom_model_data: 1829131
+  gui-button_toggle_exact_meta:
+    enabled: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: gui/button_toggle_exact_meta
+      custom_model_data: 1829132
+  gui-button_set_tool_requirement_offset:
+    enabled: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: gui/button_set_tool_requirement_offset
+      custom_model_data: 1829133
+  materials-polishing_compound:
+    enabled: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: materials/polishing_compound
+      custom_model_data: 6788200
+  materials-attuned_scroll:
+    enabled: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: materials/attuned_scroll
+      custom_model_data: 9827320
+  materials-ruby:
+    enabled: true
+    resource:
+      material: QUARTZ
+      generate: false
+      model_path: materials/ruby
+      custom_model_data: 8712390
+  materials-raw_ruby:
+    enabled: true
+    resource:
+      material: QUARTZ
+      generate: false
+      model_path: materials/raw_ruby
+      custom_model_data: 8712391
+  materials-opal:
+    enabled: true
+    resource:
+      material: QUARTZ
+      generate: false
+      model_path: materials/opal
+      custom_model_data: 8712392
+  materials-raw_opal:
+    enabled: true
+    resource:
+      material: QUARTZ
+      generate: false
+      model_path: materials/raw_opal
+      custom_model_data: 8712393
+  materials-sapphire:
+    enabled: true
+    resource:
+      material: QUARTZ
+      generate: false
+      model_path: materials/sapphire
+      custom_model_data: 8712394
+  materials-raw_sapphire:
+    enabled: true
+    resource:
+      material: QUARTZ
+      generate: false
+      model_path: materials/raw_sapphire
+      custom_model_data: 8712395
+  materials-topaz:
+    enabled: true
+    resource:
+      material: QUARTZ
+      generate: false
+      model_path: materials/topaz
+      custom_model_data: 8712396
+  materials-raw_topaz:
+    enabled: true
+    resource:
+      material: QUARTZ
+      generate: false
+      model_path: materials/raw_topaz
+      custom_model_data: 8712397
+  materials-peridot:
+    enabled: true
+    resource:
+      material: QUARTZ
+      generate: false
+      model_path: materials/peridot
+      custom_model_data: 8712398
+  materials-raw_peridot:
+    enabled: true
+    resource:
+      material: QUARTZ
+      generate: false
+      model_path: materials/raw_peridot
+      custom_model_data: 8712399
+  materials-experience_gem:
+    enabled: true
+    resource:
+      material: QUARTZ
+      generate: false
+      model_path: materials/experience_gem
+      custom_model_data: 9827320
+  gui-button_loot_selection:
+    enabled: true
+    resource:
+      material: RED_DYE
+      generate: false
+      model_path: gui/button_loot_selection
+      custom_model_data: 1829131
+  gui-icon_ring:
+    enabled: true
+    resource:
+      material: ROTTEN_FLESH
+      generate: false
+      model_path: gui/icon_ring
+      custom_model_data: 5829310
+  gui-icon_necklace:
+    enabled: true
+    resource:
+      material: ROTTEN_FLESH
+      generate: false
+      model_path: gui/icon_necklace
+      custom_model_data: 5829311
+  gui-icon_bracer:
+    enabled: true
+    resource:
+      material: ROTTEN_FLESH
+      generate: false
+      model_path: gui/icon_bracer
+      custom_model_data: 5829312
+  gui-icon_belt:
+    enabled: true
+    resource:
+      material: ROTTEN_FLESH
+      generate: false
+      model_path: gui/icon_belt
+      custom_model_data: 5829313
+  gui-icon_mask:
+    enabled: true
+    resource:
+      material: ROTTEN_FLESH
+      generate: false
+      model_path: gui/icon_mask
+      custom_model_data: 5829314
+  gui-icon_pin:
+    enabled: true
+    resource:
+      material: ROTTEN_FLESH
+      generate: false
+      model_path: gui/icon_pin
+      custom_model_data: 5829315
+  gui-icon_circlet:
+    enabled: true
+    resource:
+      material: ROTTEN_FLESH
+      generate: false
+      model_path: gui/icon_circlet
+      custom_model_data: 5829316
+  gui-icon_accessory:
+    enabled: true
+    resource:
+      material: ROTTEN_FLESH
+      generate: false
+      model_path: gui/icon_accessory
+      custom_model_data: 5829317
+  gui-icon_locked_trinket_slot:
+    enabled: true
+    resource:
+      material: ROTTEN_FLESH
+      generate: false
+      model_path: gui/icon_locked_trinket_slot
+      custom_model_data: 5829320
+  tools-netherite_shears:
+    enabled: true
+    resource:
+      material: SHEARS
+      generate: false
+      model_path: tools/netherite_shears
+      custom_model_data: 8177280
+  misc-empty_vial:
+    enabled: true
+    resource:
+      material: SNOWBALL
+      generate: false
+      model_path: misc/empty_vial
+      custom_model_data: 9928310
+  misc-antiheal_vial:
+    enabled: true
+    resource:
+      material: SNOWBALL
+      generate: false
+      model_path: misc/antiheal_vial
+      custom_model_data: 9928311
+  misc-poison_vial:
+    enabled: true
+    resource:
+      material: SNOWBALL
+      generate: false
+      model_path: misc/poison_vial
+      custom_model_data: 9928312
+  misc-hurt_vial:
+    enabled: true
+    resource:
+      material: SNOWBALL
+      generate: false
+      model_path: misc/hurt_vial
+      custom_model_data: 9928313
+  misc-holy_water_vial:
+    enabled: true
+    resource:
+      material: SNOWBALL
+      generate: false
+      model_path: misc/holy_water_vial
+      custom_model_data: 9928314
+  weapons-stone_dagger:
+    enabled: true
+    resource:
+      material: STONE_SWORD
+      generate: false
+      model_path: weapons/stone_dagger
+      custom_model_data: 1981820
+  weapons-stone_mace:
+    enabled: true
+    resource:
+      material: STONE_SWORD
+      generate: false
+      model_path: weapons/stone_mace
+      custom_model_data: 1981821
+  weapons-stone_rapier:
+    enabled: true
+    resource:
+      material: STONE_SWORD
+      generate: false
+      model_path: weapons/stone_rapier
+      custom_model_data: 1981822
+  weapons-stone_warhammer:
+    enabled: true
+    resource:
+      material: STONE_SWORD
+      generate: false
+      model_path: weapons/stone_warhammer
+      custom_model_data: 1981825
+  weapons-stone_spear:
+    enabled: true
+    resource:
+      material: STONE_SWORD
+      generate: false
+      model_path: weapons/stone_spear
+      custom_model_data: 1981826
+  weapons-stone_greataxe:
+    enabled: true
+    resource:
+      material: STONE_SWORD
+      generate: false
+      model_path: weapons/stone_greataxe
+      custom_model_data: 1981827
+  weapons-stone_knuckles:
+    enabled: true
+    resource:
+      material: STONE_SWORD
+      generate: false
+      model_path: weapons/stone_knuckles
+      custom_model_data: 1981840
+  gui-button_save:
+    enabled: true
+    resource:
+      material: STRUCTURE_VOID
+      generate: false
+      model_path: gui/button_save
+      custom_model_data: 1829130
+  gui-button_confirm_selection:
+    enabled: true
+    resource:
+      material: STRUCTURE_VOID
+      generate: false
+      model_path: gui/button_confirm_selection
+      custom_model_data: 1829131
+  tools-netherite_jewelry_hammer:
+    enabled: true
+    resource:
+      material: WOODEN_PICKAXE
+      generate: false
+      model_path: tools/netherite_jewelry_hammer
+      custom_model_data: 8877280
+  weapons-wooden_dagger:
+    enabled: true
+    resource:
+      material: WOODEN_SWORD
+      generate: false
+      model_path: weapons/wooden_dagger
+      custom_model_data: 1981820
+  weapons-wooden_mace:
+    enabled: true
+    resource:
+      material: WOODEN_SWORD
+      generate: false
+      model_path: weapons/wooden_mace
+      custom_model_data: 1981821
+  weapons-wooden_rapier:
+    enabled: true
+    resource:
+      material: WOODEN_SWORD
+      generate: false
+      model_path: weapons/wooden_rapier
+      custom_model_data: 1981822
+  weapons-wooden_warhammer:
+    enabled: true
+    resource:
+      material: WOODEN_SWORD
+      generate: false
+      model_path: weapons/wooden_warhammer
+      custom_model_data: 1981825
+  weapons-wooden_spear:
+    enabled: true
+    resource:
+      material: WOODEN_SWORD
+      generate: false
+      model_path: weapons/wooden_spear
+      custom_model_data: 1981826
+  weapons-wooden_greataxe:
+    enabled: true
+    resource:
+      material: WOODEN_SWORD
+      generate: false
+      model_path: weapons/wooden_greataxe
+      custom_model_data: 1981827
+  weapons-wooden_knuckles:
+    enabled: true
+    resource:
+      material: WOODEN_SWORD
+      generate: false
+      model_path: weapons/wooden_knuckles
+      custom_model_data: 1981840
+  gui-button_recipe_options:
+    enabled: true
+    resource:
+      material: WRITABLE_BOOK
+      generate: false
+      model_path: gui/button_recipe_options
+      custom_model_data: 1829131

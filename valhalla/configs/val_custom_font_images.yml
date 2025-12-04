@@ -1,0 +1,2195 @@
+info:
+  namespace: val
+font_images:
+  skills_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/skills_gui.png
+    scale_ratio: 137
+    y_position: 24
+  immersive_recipe_selection:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/immersive_recipe_selection.png
+    scale_ratio: 137
+    y_position: 24
+  editor_gridrecipe_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_gridrecipe_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_cookingrecipe_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_cookingrecipe_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_smithingrecipe_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_smithingrecipe_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_brewingrecipe_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_brewingrecipe_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_immersiverecipe_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_immersiverecipe_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_cauldronrecipe_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_cauldronrecipe_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_alloyrecipe_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_alloyrecipe_gui.png
+    scale_ratio: 137
+    y_position: 24
+  loot_table_free_selection:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/loot_table_free_selection.png
+    scale_ratio: 119
+    y_position: 24
+  editor_ingredientselection_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_ingredientselection_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_modifierselection_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_modifierselection_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_ingredientoptionselection_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_ingredientoptionselection_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_recipeoverview_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_recipeoverview_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_recipeselection_craftingtable_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_recipeselection_craftingtable_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_recipeselection_brewing_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_recipeselection_brewing_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_recipeselection_smithing_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_recipeselection_smithing_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_recipeselection_furnace_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_recipeselection_furnace_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_recipeselection_blastfurnace_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_recipeselection_blastfurnace_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_recipeselection_smoker_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_recipeselection_smoker_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_recipeselection_campfire_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_recipeselection_campfire_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_recipeselection_immersive_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_recipeselection_immersive_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_recipeselection_cauldron_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_recipeselection_cauldron_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_recipeselection_alloy_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_recipeselection_alloy_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_recipeselection_disabled_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_recipeselection_disabled_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_validationselection_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_validationselection_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_loot_table:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_loot_table.png
+    scale_ratio: 137
+    y_position: 24
+  editor_loottableoverview:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_loottableoverview.png
+    scale_ratio: 137
+    y_position: 24
+  editor_loottableselection:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_loottableselection.png
+    scale_ratio: 137
+    y_position: 24
+  editor_loot_pool:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_loot_pool.png
+    scale_ratio: 137
+    y_position: 24
+  editor_predicateselection_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_predicateselection_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_tableselection_blocks_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_tableselection_blocks_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_tableselection_containers_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_tableselection_containers_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_tableselection_entities_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_tableselection_entities_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_tableselection_fishing_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_tableselection_fishing_gui.png
+    scale_ratio: 137
+    y_position: 24
+  editor_loot_entry:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_loot_entry.png
+    scale_ratio: 137
+    y_position: 24
+  editor_armor_sets:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_armor_sets.png
+    scale_ratio: 137
+    y_position: 24
+  editor_customitems:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/editor_customitems.png
+    scale_ratio: 137
+    y_position: 24
+  merchants_services_1:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/merchants_services_1.png
+    scale_ratio: 137
+    y_position: 24
+  merchants_services_2:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/merchants_services_2.png
+    scale_ratio: 137
+    y_position: 24
+  merchants_services_3:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/merchants_services_3.png
+    scale_ratio: 137
+    y_position: 24
+  merchants_services_4:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/merchants_services_4.png
+    scale_ratio: 137
+    y_position: 24
+  merchants_services_5:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/merchants_services_5.png
+    scale_ratio: 137
+    y_position: 24
+  merchants_services_6:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/merchants_services_6.png
+    scale_ratio: 137
+    y_position: 24
+  merchants_service_ordering:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/merchants_service_ordering.png
+    scale_ratio: 137
+    y_position: 24
+  merchants_service_upgrading:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/merchants_service_upgrading.png
+    scale_ratio: 137
+    y_position: 24
+  merchants_professions_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/merchants_professions_gui.png
+    scale_ratio: 137
+    y_position: 24
+  merchants_trades_gui:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/merchants_trades_gui.png
+    scale_ratio: 137
+    y_position: 24
+  merchants_trade:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/merchants_trade.png
+    scale_ratio: 137
+    y_position: 24
+  trinkets_gui_0r:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/trinkets_gui_0r.png
+    scale_ratio: 137
+    y_position: 24
+  book_page:
+    permission: valhalla.fonts
+    symbol: 廊
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/book_page.png
+    scale_ratio: 139
+    y_position: 24
+  effect_icons_speed:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/speed.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_slow:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/slow.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_fast_digging:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/fast_digging.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_slow_digging:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/slow_digging.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_increase_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/increase_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_heal:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/heal.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_harm:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/harm.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_jump:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/jump.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_confusion:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/confusion.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_regeneration:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/regeneration.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_resistance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_resistance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_fire_resistance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/fire_resistance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_water_breathing:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/water_breathing.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_invisibility:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/invisibility.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_blindness:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/blindness.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_darkness:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/darkness.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_night_vision:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/night_vision.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_hunger:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/hunger.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_weakness:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/weakness.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_poison:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/poison.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_wither:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/wither.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_health_boost:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/health_boost.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_absorption:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/absorption.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_saturation:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/saturation.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_glowing:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/glowing.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_levitation:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/levitation.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_luck:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/luck.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_unluck:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/unluck.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_slow_falling:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/slow_falling.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_conduit_power:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/conduit_power.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_dolphins_grace:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/dolphins_grace.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_bad_omen:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/bad_omen.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_hero_of_the_village:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/hero_of_the_village.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_infested:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/infested.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_oozing:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/oozing.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_weaving:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/weaving.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_wind_charged:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/wind_charged.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_bow_strength:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/bow_strength.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_arrow_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/arrow_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_ammo_consumption:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/ammo_consumption.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_arrow_velocity:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/arrow_velocity.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_arrow_accuracy:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/arrow_accuracy.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_arrow_piercing:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/arrow_piercing.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_knockback:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/knockback.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_stun_chance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/stun_chance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_bleed_chance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/bleed_chance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_bleed_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/bleed_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_bleed_duration:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/bleed_duration.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_crit_chance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/crit_chance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_crit_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/crit_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_armor_penetration_flat:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/armor_penetration_flat.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_light_armor_penetration_flat:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/light_armor_penetration_flat.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_heavy_armor_penetration_flat:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/heavy_armor_penetration_flat.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_armor_penetration_fraction:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/armor_penetration_fraction.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_light_armor_penetration_fraction:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/light_armor_penetration_fraction.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_heavy_armor_penetration_fraction:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/heavy_armor_penetration_fraction.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_heavy_armor_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/heavy_armor_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_light_armor_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/light_armor_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_immunity_bonus_fraction:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/immunity_bonus_fraction.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_immunity_bonus_flat:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/immunity_bonus_flat.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_immunity_reduction:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/immunity_reduction.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_unarmed:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_unarmed.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_melee:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_melee.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_ranged:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_ranged.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_all:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_all.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_attack_reach:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/attack_reach.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_velocity_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/velocity_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_dismount_chance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/dismount_chance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_custom_damage_resistance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/custom_damage_resistance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_explosion_resistance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/explosion_resistance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_fall_damage_resistance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/fall_damage_resistance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_custom_fire_resistance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/custom_fire_resistance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_magic_resistance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/magic_resistance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_bleed_resistance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/bleed_resistance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_stun_resistance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/stun_resistance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_poison_resistance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/poison_resistance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_projectile_resistance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/projectile_resistance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_melee_resistance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/melee_resistance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_dodge_chance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/dodge_chance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_healing_bonus:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/healing_bonus.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_food_consumption:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/food_consumption.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_cooldown_reduction:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/cooldown_reduction.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_explosion_power:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/explosion_power.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_crafting_speed:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/crafting_speed.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_alchemy_quality:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/alchemy_quality.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_alchemy_quality_fraction:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/alchemy_quality_fraction.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_enchanting_quality:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/enchanting_quality.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_enchanting_quality_fraction:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/enchanting_quality_fraction.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_anvil_quality_flat:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/anvil_quality_flat.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_anvil_quality_fraction:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/anvil_quality_fraction.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_brewing_ingredient_consumption:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/brewing_ingredient_consumption.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_brewing_speed:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/brewing_speed.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_potion_consumption:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/potion_consumption.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_throwing_velocity:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/throwing_velocity.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_smithing_quality:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/smithing_quality.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_smithing_quality_fraction:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/smithing_quality_fraction.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_mining_rare_drops:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/mining_rare_drops.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_mining_drops:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/mining_drops.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_woodcutting_rare_drops:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/woodcutting_rare_drops.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_woodcutting_drops:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/woodcutting_drops.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_digging_rare_drops:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/digging_rare_drops.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_digging_drops:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/digging_drops.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_farming_rare_drops:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/farming_rare_drops.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_farming_drops:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/farming_drops.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_fishing_luck:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/fishing_luck.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_skill_exp_gain:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/skill_exp_gain.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_vanilla_exp_gain:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/vanilla_exp_gain.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_taken:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_taken.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_reflect_chance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/reflect_chance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_reflect_fraction:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/reflect_fraction.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_smithing_masterpiece_flat:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/smithing_masterpiece_flat.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_smithing_masterpiece_fraction:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/smithing_masterpiece_fraction.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_enchanting_masterpiece_flat:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/enchanting_masterpiece_flat.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_enchanting_masterpiece_fraction:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/enchanting_masterpiece_fraction.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_alchemy_masterpiece_flat:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/alchemy_masterpiece_flat.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_alchemy_masterpiece_fraction:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/alchemy_masterpiece_fraction.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_custom_luck:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/custom_luck.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_armor_flat:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/armor_flat.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_armor_fraction:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/armor_fraction.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_armor_toughness_flat:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/armor_toughness_flat.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_armor_toughness_fraction:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/armor_toughness_fraction.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_attack_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/attack_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_attack_speed:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/attack_speed.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_knockback_resistance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/knockback_resistance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_max_health_flat:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/max_health_flat.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_max_health_fraction:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/max_health_fraction.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_movement_speed:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/movement_speed.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_chocolate_milk:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/chocolate_milk.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_milk:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/milk.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_sneak_movement_speed:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/sneak_movement_speed.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_sprint_movement_speed:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/sprint_movement_speed.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_explosion:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_explosion.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_fire:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_fire.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_magic:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_magic.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_poison:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_poison.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_bludgeoning:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_bludgeoning.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_lightning:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_lightning.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_freezing:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_freezing.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_radiant:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_radiant.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_necrotic:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_necrotic.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_cooking_speed:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/cooking_speed.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_jump_height:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/jump_height.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_jumps:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/jumps.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_extra_explosion_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/extra_explosion_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_extra_fire_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/extra_fire_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_extra_magic_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/extra_magic_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_extra_poison_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/extra_poison_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_extra_bludgeoning_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/extra_bludgeoning_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_extra_lightning_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/extra_lightning_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_extra_freezing_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/extra_freezing_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_extra_radiant_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/extra_radiant_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_extra_necrotic_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/extra_necrotic_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_bludgeoning_resistance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/bludgeoning_resistance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_lightning_resistance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/lightning_resistance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_freezing_resistance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/freezing_resistance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_radiant_resistance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/radiant_resistance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_necrotic_resistance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/necrotic_resistance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_stun:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/stun.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_durability:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/durability.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_entity_drops:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/entity_drops.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_light_armor:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/light_armor.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_heavy_armor:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/heavy_armor.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_crit_chance_resistance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/crit_chance_resistance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_crit_damage_resistance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/crit_damage_resistance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_fire:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/fire.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_instant_explosion_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/instant_explosion_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_instant_fire_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/instant_fire_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_instant_poison_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/instant_poison_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_instant_magic_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/instant_magic_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_instant_melee_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/instant_melee_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_instant_projectile_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/instant_projectile_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_instant_bludgeoning_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/instant_bludgeoning_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_instant_lightning_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/instant_lightning_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_instant_freezing_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/instant_freezing_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_instant_radiant_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/instant_radiant_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_instant_necrotic_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/instant_necrotic_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_bleed:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/bleed.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_antibleed:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/antibleed.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_recall:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/recall.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_custom_heal:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/custom_heal.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_lapis_save_chance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/lapis_save_chance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_exp_refund_chance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/exp_refund_chance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_exp_refund_fraction:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/exp_refund_fraction.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_lingering_duration_multiplier:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/lingering_duration_multiplier.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_lingering_radius_multiplier:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/lingering_radius_multiplier.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_splash_intensity_minimum:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/splash_intensity_minimum.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_entity_rare_drops:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/entity_rare_drops.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_dig_speed:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/dig_speed.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_mining_level:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/mining_level.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_fall_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/fall_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_crossbow_magazine:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/crossbow_magazine.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_scale:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/scale.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_block_reach:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/block_reach.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_step_height:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/step_height.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_attack_reach_multiplier:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/attack_reach_multiplier.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_shield_disarming:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/shield_disarming.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_lifesteal:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/lifesteal.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_gravity:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/gravity.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_safe_fall_distance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/safe_fall_distance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_fall_damage_multiplier:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/fall_damage_multiplier.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_pvp_resistance:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/pvp_resistance.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_player_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/player_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_mounted_damage:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/mounted_damage.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_water_movement_efficiency:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/water_movement_efficiency.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_water_mining_efficiency:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/water_mining_efficiency.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_flight_speed:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/flight_speed.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_oxygen:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/oxygen.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_back_protection:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/back_protection.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_front_protection:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/front_protection.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_absorption:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_absorption.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_shadowskin:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/shadowskin.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_blocking_speed:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/blocking_speed.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_animal:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_animal.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_undead:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_undead.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_arthropods:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_arthropods.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_nether:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_nether.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_overworld:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_overworld.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_end:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_end.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_aquatic:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_aquatic.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_living:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_living.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_bosses:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_bosses.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_damage_illager:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/damage_illager.png
+    scale_ratio: 8
+    y_position: 8
+  effect_icons_butchery_drops:
+    permission: valhalla.fonts
+    symbol: 
+    suggest_in_command: false
+    show_in_gui: false
+    path: font/effect_icons/butchery_drops.png
+    scale_ratio: 8
+    y_position: 8
